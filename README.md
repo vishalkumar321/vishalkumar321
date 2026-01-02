@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=MERN+%26+Next.js+Developer;450%2B+DSA+Problems+Solved;Strong+in+Backend+Logic+%26+APIs;Building+Real-World%2C+Scalable+Applications;Consistency+%7C+Discipline+%7C+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=MERN+%26+Next.js+Developer;450%2B+DSA+Problems+Solved;Strong+Backend+Logic+%26+APIs;Building+Scalable+Real-World+Apps;Consistency+%7C+Discipline+%7C+Growth" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,14 +14,14 @@
 ## ℹ️ About Me
 
 - 🎓 Computer Science Engineering student (**CSE’27**)
-- 💻 **Full-Stack Developer (MERN + Next.js)** with strong backend orientation
-- 🧠 Solved **450+ DSA problems** on LeetCode & Codolio (focused on patterns & optimization)
-- 🔍 Interested in **APIs, scalability, clean architecture & system design fundamentals**
-- 🌱 Actively working with **React, Next.js, Node.js, MongoDB**
-- ☁️ Hands-on with **deployment using Vercel & Render**
+- 💻 **Full-Stack Developer (MERN + Next.js)** with a strong backend focus
+- 🧠 Solved **450+ DSA problems** across LeetCode, Codolio & GeeksforGeeks
+- 🔍 Interested in **APIs, clean architecture, scalability & system fundamentals**
+- 🌱 Working with **React, Next.js, Node.js, MongoDB**
+- ☁️ Hands-on deployment using **Vercel & Render**
 - 🤝 Open to **internships, collaborations & impactful open-source work**
 
-I believe in **proof of work** — building meaningful projects, writing clean code, and improving every single day.
+I believe in **proof of work** — building useful products, writing clean code, and improving consistently.
 
 ---
 
@@ -40,7 +40,7 @@ I believe in **proof of work** — building meaningful projects, writing clean c
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
 ### 🛢️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
@@ -59,11 +59,11 @@ I believe in **proof of work** — building meaningful projects, writing clean c
 A secure and scalable notes-management application  
 - User authentication & authorization  
 - Clean REST APIs with proper data modeling  
-- Focus on backend structure and maintainability  
+- Focus on backend structure, scalability & maintainability  
 
 🧠 **DSA Journey (450+ Problems)**  
 - Arrays, Strings, Hashing, Recursion, Sliding Window, Trees  
-- Emphasis on **problem patterns, time & space optimization**
+- Strong emphasis on **patterns, optimization & consistency**
 
 ---
 
@@ -71,21 +71,23 @@ A secure and scalable notes-management application
 
 <p align="center">
   <a href="https://codolio.com/profile/vishal4518">
-    <img src="https://img.shields.io/badge/Codolio-View%20Profile-000000?style=flat">
+    <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=flat">
   </a>
   <a href="https://leetcode.com/u/vishal_kumar_123/">
-    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vishalkumarmxua?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🎯 Current Focus & Goals
+## 📊 GitHub Stats
 
-- 🔨 Build **production-ready MERN & Next.js applications**
-- 🧱 Strengthen **backend architecture, API design & scalability**
-- 🔐 Improve **auth, security & best practices**
-- 🚀 Gain deeper experience with **deployment & real-world workflows**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar321&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -98,8 +100,8 @@ A secure and scalable notes-management application
   <a href="mailto:vishalkumargupta4546@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail">
   </a>
-  <a href="https://codolio.com/profile/vishal4518">
-    <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=flat">
+  <a href="https://github.com/vishalkumar321">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">
   </a>
 </p>
 
