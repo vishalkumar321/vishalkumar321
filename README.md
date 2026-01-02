@@ -70,9 +70,15 @@ A secure and scalable notes-management application
 ## 📈 Coding Profiles
 
 <p align="center">
-  <a href="https://codolio.com/profile/vishal4518" style="color:#000000; font-weight:bold;">Codolio</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/vishal_kumar_123/" style="color:#FFA116; font-weight:bold;">LeetCode</a> &nbsp;|&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/vishalkumarmxua?tab=activity" style="color:#2F8D46; font-weight:bold;">GeeksforGeeks</a>
+  <a href="https://codolio.com/profile/vishal4518">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=flat" />
+  </a>
+  <a href="https://leetcode.com/u/vishal_kumar_123/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vishalkumarmxua?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
