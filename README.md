@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">MERN Stack Developer | CSE’27 | 450+ DSA Problems Solved | Learning by Building</h3>
+<h3 align="center">MERN & Next.js Developer | CSE’27 | 450+ DSA Problems Solved | Backend-Focused Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalkumar321&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=MERN+%26+Next.js+Developer;450%2B+DSA+Problems+Solved;Backend-Focused+Full-Stack+Engineer;Building+Real-World%2C+Scalable+Apps;Consistent+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=MERN+%26+Next.js+Developer;450%2B+DSA+Problems+Solved;Strong+in+Backend+Logic+%26+APIs;Building+Real-World%2C+Scalable+Applications;Consistency+%7C+Discipline+%7C+Growth" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,13 +14,14 @@
 ## ℹ️ About Me
 
 - 🎓 Computer Science Engineering student (**CSE’27**)
-- 💻 **Full-Stack Developer (MERN + Next.js)** with strong backend focus
-- 🧠 Solved **450+ DSA problems** on LeetCode & GFG — emphasis on patterns and optimization
-- 🔍 Interested in **APIs, scalability, clean architecture & system thinking**
-- 🌱 Actively improving **React, Next.js, Node.js, MongoDB & deployments**
+- 💻 **Full-Stack Developer (MERN + Next.js)** with strong backend orientation
+- 🧠 Solved **450+ DSA problems** on LeetCode & Codolio (focused on patterns & optimization)
+- 🔍 Interested in **APIs, scalability, clean architecture & system design fundamentals**
+- 🌱 Actively working with **React, Next.js, Node.js, MongoDB**
+- ☁️ Hands-on with **deployment using Vercel & Render**
 - 🤝 Open to **internships, collaborations & impactful open-source work**
 
-I believe in **proof of work** — building things that solve real problems and writing code that is readable, scalable, and maintainable.
+I believe in **proof of work** — building meaningful projects, writing clean code, and improving every single day.
 
 ---
 
@@ -52,42 +53,29 @@ I believe in **proof of work** — building things that solve real problems and 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Work
 
-📝 **Notes App (Full-Stack)**  
-A secure and scalable notes-management application built using MERN stack  
+📝 **Notes App (Full-Stack MERN)**  
+A secure and scalable notes-management application  
 - User authentication & authorization  
-- CRUD operations with clean REST APIs  
-- Focus on backend structure, data modeling & scalability  
+- Clean REST APIs with proper data modeling  
+- Focus on backend structure and maintainability  
 
-🧠 **DSA Practice Repository**  
-- 450+ problems solved across Arrays, Strings, Hashing, Recursion, Sliding Window, Trees  
-- Emphasis on **patterns, time/space optimization & consistency**
-
-🚀 **More projects coming soon** — focused on real-world use cases and production readiness.
+🧠 **DSA Journey (450+ Problems)**  
+- Arrays, Strings, Hashing, Recursion, Sliding Window, Trees  
+- Emphasis on **problem patterns, time & space optimization**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Coding Profiles
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar321&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar321&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar321&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalkumar321&theme=darkhub&no-frame=true&row=1" />
+  <a href="https://codolio.com/profile/vishal4518">
+    <img src="https://img.shields.io/badge/Codolio-View%20Profile-000000?style=flat">
+  </a>
+  <a href="https://leetcode.com/u/vishal_kumar_123/">
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black">
+  </a>
 </p>
 
 ---
@@ -95,18 +83,24 @@ A secure and scalable notes-management application built using MERN stack
 ## 🎯 Current Focus & Goals
 
 - 🔨 Build **production-ready MERN & Next.js applications**
-- 🧱 Strengthen **backend architecture & API design**
-- 🔐 Master **authentication, authorization & security basics**
-- 🚀 Improve **deployment workflows (Vercel, Render) & CI/CD fundamentals**
+- 🧱 Strengthen **backend architecture, API design & scalability**
+- 🔐 Improve **auth, security & best practices**
+- 🚀 Gain deeper experience with **deployment & real-world workflows**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal4518/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
-  <a href="mailto:vishalkumargupta4546@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail"></a>
-  <a href="https://codolio.com/profile/vishal4518"><img src="https://img.shields.io/badge/Codolio-Problem%20Solving-000000?style=flat"></a>
+  <a href="https://www.linkedin.com/in/vishal4518/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:vishalkumargupta4546@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail">
+  </a>
+  <a href="https://codolio.com/profile/vishal4518">
+    <img src="https://img.shields.io/badge/Codolio-Profile-000000?style=flat">
+  </a>
 </p>
 
 ---
